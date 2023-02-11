@@ -1,0 +1,81 @@
+{
+  "steps":
+  [
+    {
+      "Move to":
+      {
+        "x": 30,
+        "y": 1050
+      }
+
+    },
+    {
+      "Click mouse button":
+      {
+        "button": "left",
+        "sleep": 3
+      }
+    },
+    {
+      "Move to":
+      {
+        "x": 193,
+        "y": 138
+      }
+    },
+    {
+      "Click mouse button":
+      {
+        "button": "left",
+        "sleep": 0.5
+      }
+    },
+    {
+      "Write text":
+      {
+        "text": "mailkaraluszka@gmail.com"
+      }
+    },
+    {
+      "Press key":
+      {
+        "key": "tab",
+        "clicks": 2
+      }
+    },
+    {
+      "Write text":
+      {
+        "text": "Valentines day card"
+      }
+    },
+    {
+      "Press key":
+      {
+        "key": "tab",
+        "clicks": 1
+      }
+    },
+    {
+      "Past text":
+      {
+        "text": "self.txt_file.open_txt_file()"
+      }
+    },
+    {
+      "Move to":
+      {
+        "x": 37,
+        "y": 110
+      }
+    },
+    {
+      "Click mouse button":
+      {
+        "button": "left",
+        "sleep": 0.5
+      }
+    }
+  ]
+}
+
